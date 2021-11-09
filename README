@@ -1,0 +1,9 @@
+1. npm run install or yarn install <br>
+2. npm run migrate or yarn migrate <br>
+3. npm run seed or yarn seed <br>
+<br>
+For Test using <br>
+npm run test or yarn test <br>
+<br>
+For running server <br>
+npm run dev or yarn dev
